@@ -3,7 +3,7 @@
 ## Description
 A single page application built with React to display my portfolio.
 
-Deployed at GitHub: http://dawkc.github.io/photo-port/
+Deployed at GitHub: https://dawkc.github.io/react-portfolio/
 
 ## Table of Contents
 
