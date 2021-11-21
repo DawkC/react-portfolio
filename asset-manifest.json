@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.e475ad11.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.5c4ad7ad.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.5c4ad7ad.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.73549604.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.73549604.js.map",
-    "static/js/2.65f548d9.chunk.js": "/react-portfolio/static/js/2.65f548d9.chunk.js",
-    "static/js/2.65f548d9.chunk.js.map": "/react-portfolio/static/js/2.65f548d9.chunk.js.map",
-    "static/js/3.e235c5bc.chunk.js": "/react-portfolio/static/js/3.e235c5bc.chunk.js",
-    "static/js/3.e235c5bc.chunk.js.map": "/react-portfolio/static/js/3.e235c5bc.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.9526548f.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.9526548f.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.5e33d179.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.5e33d179.js.map",
+    "static/js/2.56a16e19.chunk.js": "/react-portfolio/static/js/2.56a16e19.chunk.js",
+    "static/js/2.56a16e19.chunk.js.map": "/react-portfolio/static/js/2.56a16e19.chunk.js.map",
+    "static/js/3.8a9c39f6.chunk.js": "/react-portfolio/static/js/3.8a9c39f6.chunk.js",
+    "static/js/3.8a9c39f6.chunk.js.map": "/react-portfolio/static/js/3.8a9c39f6.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/main.e475ad11.chunk.css.map": "/react-portfolio/static/css/main.e475ad11.chunk.css.map",
-    "static/js/2.65f548d9.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.65f548d9.chunk.js.LICENSE.txt",
+    "static/js/2.56a16e19.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.56a16e19.chunk.js.LICENSE.txt",
     "static/media/Alps.png": "/react-portfolio/static/media/Alps.23be476d.png",
     "static/media/Charles Dawkins Resume May 2021.f1324f37.docx": "/react-portfolio/static/media/Charles Dawkins Resume May 2021.f1324f37.docx",
     "static/media/bored.png": "/react-portfolio/static/media/bored.e8827da1.png",
     "static/media/budget-tracker.png": "/react-portfolio/static/media/budget-tracker.a185f81b.png",
     "static/media/charles-dawkins.png": "/react-portfolio/static/media/charles-dawkins.fb1429e2.png",
+    "static/media/next-step.png": "/react-portfolio/static/media/next-step.356eedfc.png",
     "static/media/online-therapy.png": "/react-portfolio/static/media/online-therapy.78740134.png",
     "static/media/pizza-hunt.png": "/react-portfolio/static/media/pizza-hunt.f9401938.png",
     "static/media/run-buddy.png": "/react-portfolio/static/media/run-buddy.aa25e96a.png",
@@ -24,9 +25,9 @@
     "static/media/zoo-keepr.png": "/react-portfolio/static/media/zoo-keepr.e58d85d7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.73549604.js",
-    "static/js/2.65f548d9.chunk.js",
+    "static/js/runtime-main.5e33d179.js",
+    "static/js/2.56a16e19.chunk.js",
     "static/css/main.e475ad11.chunk.css",
-    "static/js/main.5c4ad7ad.chunk.js"
+    "static/js/main.9526548f.chunk.js"
   ]
 }
