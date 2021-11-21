@@ -37,19 +37,19 @@ function Project() {
             description: "Task Tracker Application",
             project_url: "https://dawkc.github.io/taskinator/",
             image: "taskinator"
-        }
+        },
         {
             name: "Online Therapy",
-            description: "Task Tracker Application",
+            description: "Full stack project using MySQL, Sequelize, Node.js, Express.js, and Handlebars",
             project_url: "https://online-therapy-44444.herokuapp.com//",
             image: "online-therapy"
-        }
+        },
         {
             name: "Next Step",
-            description: "Task Tracker Application",
+            description: "React Project that uses the MERN Stack and GraphQL",
             project_url: "https://next-setp-uoft-project3.herokuapp.com//",
             image: "next-step"
-        }
+        },
     ]
 
     return (
