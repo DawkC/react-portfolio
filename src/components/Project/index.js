@@ -38,6 +38,18 @@ function Project() {
             project_url: "https://dawkc.github.io/taskinator/",
             image: "taskinator"
         }
+        {
+            name: "Online Therapy",
+            description: "Task Tracker Application",
+            project_url: "https://online-therapy-44444.herokuapp.com//",
+            image: "online-therapy"
+        }
+        {
+            name: "Next Step",
+            description: "Task Tracker Application",
+            project_url: "https://next-setp-uoft-project3.herokuapp.com//",
+            image: "next-step"
+        }
     ]
 
     return (
