@@ -49,7 +49,7 @@ function Project() {
             description: "React Project that uses the MERN Stack and GraphQL",
             project_url: "https://next-setp-uoft-project3.herokuapp.com//",
             image: "next-step"
-        },
+        }
     ]
 
     return (
