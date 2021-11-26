@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.e475ad11.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.9526548f.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.9526548f.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.5e33d179.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.5e33d179.js.map",
-    "static/js/2.56a16e19.chunk.js": "/react-portfolio/static/js/2.56a16e19.chunk.js",
-    "static/js/2.56a16e19.chunk.js.map": "/react-portfolio/static/js/2.56a16e19.chunk.js.map",
-    "static/js/3.8a9c39f6.chunk.js": "/react-portfolio/static/js/3.8a9c39f6.chunk.js",
-    "static/js/3.8a9c39f6.chunk.js.map": "/react-portfolio/static/js/3.8a9c39f6.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.fe5f2bb6.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.f35a1b0b.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f35a1b0b.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.9d830059.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.9d830059.js.map",
+    "static/js/2.35f9128b.chunk.js": "/react-portfolio/static/js/2.35f9128b.chunk.js",
+    "static/js/2.35f9128b.chunk.js.map": "/react-portfolio/static/js/2.35f9128b.chunk.js.map",
+    "static/js/3.5a369f4f.chunk.js": "/react-portfolio/static/js/3.5a369f4f.chunk.js",
+    "static/js/3.5a369f4f.chunk.js.map": "/react-portfolio/static/js/3.5a369f4f.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.e475ad11.chunk.css.map": "/react-portfolio/static/css/main.e475ad11.chunk.css.map",
-    "static/js/2.56a16e19.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.56a16e19.chunk.js.LICENSE.txt",
+    "static/css/main.fe5f2bb6.chunk.css.map": "/react-portfolio/static/css/main.fe5f2bb6.chunk.css.map",
+    "static/js/2.35f9128b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.35f9128b.chunk.js.LICENSE.txt",
     "static/media/Alps.png": "/react-portfolio/static/media/Alps.23be476d.png",
     "static/media/Charles Dawkins Resume May 2021.f1324f37.docx": "/react-portfolio/static/media/Charles Dawkins Resume May 2021.f1324f37.docx",
     "static/media/bored.png": "/react-portfolio/static/media/bored.e8827da1.png",
@@ -25,9 +25,9 @@
     "static/media/zoo-keepr.png": "/react-portfolio/static/media/zoo-keepr.e58d85d7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e33d179.js",
-    "static/js/2.56a16e19.chunk.js",
-    "static/css/main.e475ad11.chunk.css",
-    "static/js/main.9526548f.chunk.js"
+    "static/js/runtime-main.9d830059.js",
+    "static/js/2.35f9128b.chunk.js",
+    "static/css/main.fe5f2bb6.chunk.css",
+    "static/js/main.f35a1b0b.chunk.js"
   ]
 }
