@@ -119,8 +119,8 @@ footer a {
 .hero-statement {
   display: flex;
   margin: 20px 200px;
-  background-color: var(--secondary);
   border-bottom: 3px solid var(--tertiary);
+  background-color: beige;
 }
 
 .hero h3 {
@@ -136,14 +136,11 @@ header h1 {
 }
 
 .header-banner {
-  background-color: var(--secondary);
   min-height: 42px;
   min-width: 300px;
   display: flex;
   flex-wrap: wrap;
   position: absolute;
-  /* left: 0px; */
-  border-bottom: 3px solid var(--tertiary);
 }
 
 header a {
@@ -205,7 +202,7 @@ header nav ul li:hover {
   border-radius: var(--border-radius);
   color: var(--dark);
   outline: none;
-  background-color: var(--primary);
+  background-color: #808a8b;
 }
 
 .btn:hover {
@@ -234,12 +231,23 @@ header nav ul li:hover {
   border-left: 3px solid var(--secondary);
 }
 
+
+
 /* CARDS */
+/* .project-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: space-between;
+  padding-top: 35px;
+} */
+
 .card {
   margin: 0 0 20px 0;
   border: 3px solid var(--dark);
   border-radius: var(--border-radius);
   background-color: var(--light);
+  justify-content:space-evenly;
 }
 
 .card-header {
@@ -256,6 +264,8 @@ header nav ul li:hover {
 .card-body {
   padding: 2.5%;
   background-color: var(--light);
+  display: flex;
+  justify-content: space-evenly;
 }
 
 /* FORM */
@@ -893,6 +903,10 @@ header nav ul li:hover {
 
 .col-auto {
   flex-grow: 1;
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: space-around;
+  justify-content: space-evenly;
 }
 
 .col-1 {

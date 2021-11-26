@@ -12,9 +12,8 @@ function Resume() {
                     <h2>Resume</h2>
                 </div>
                 <div className="card-body">
-                    <p>Wanna know more? Click the Button!</p>
                     <a href={myResume} target="_blank" rel="noreferrer" download>
-                        <button className="btn"><FontAwesomeIcon icon={faDownload} size="2x" /> Download Resume</button>
+                        <button className="btn"><FontAwesomeIcon icon={faDownload} size="1x" /> Download Resume</button>
                     </a>
                 </div>
             </div>

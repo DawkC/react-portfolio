@@ -1,4 +1,5 @@
 import React from 'react';
+import { Card, Container, Row } from 'react-bootstrap';
 
 function Project() {
     const projects = [
@@ -16,7 +17,7 @@ function Project() {
         },
         {
             name: "Pizza Hunt",
-            description: "NoSQL Application using MongoDB and Mongoose Library work.",
+            description: "NoSQL Application using MongoDB and Mongoose.",
             project_url: "https://still-brushlands-06870.herokuapp.com/",
             image: "pizza-hunt"
         },
@@ -53,21 +54,25 @@ function Project() {
     ]
 
     return (
-        <div className="col-1">
-            {projects.map((project) => (
-                <div className="card">
-                    <div className="card-header">
-                        <h2>{project.name}</h2>
-                    </div>
-                    <div className="card-body">
-                        <a href={project.project_url} target="_blank" rel="noreferrer">
-                            <img src={require(`../../assets/${project.image}.png`).default} alt={project.name} className="card-img" style={{ width: "50%" }} />
-                        </a>
-                        <p>{project.description}</p>
-                    </div>
-                </div>
-            ))}
-        </div>
+        <Container>
+            <Row>
+            <div className="flex-row xs={6}">
+                    {projects.map((project) => (
+                        <div className="card">
+                            <div className="card-header">
+                                <h2>{project.name}</h2>
+                            </div>
+                            <div className="card-body">
+                                <a href={project.project_url} target="_blank" rel="noreferrer">
+                                    <img src={require(`../../assets/${project.image}.png`).default} alt={project.name} className="card-img" style={{ width: "50%" }} />
+                                </a>
+                                <p>{project.description}</p>
+                            </div>
+                        </div>
+                    ))}
+            </div>
+            </Row>
+        </Container>
     );
 }
 
